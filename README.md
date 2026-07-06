@@ -1,1 +1,1 @@
-# Building-AMAZON-Clone-for-Beginners
+AMAZON-Clone
